@@ -33,7 +33,7 @@ public class Deplacement {//jouer le role de fabriquer method fabrique pour fabr
         return xDepart;
     }
 
-        public double distance(){
+    public double distance(){
         return Math.sqrt(Math.pow(xArrive-yDepart, 2)+ Math.pow(yArrive-yDepart,2));
         }
 

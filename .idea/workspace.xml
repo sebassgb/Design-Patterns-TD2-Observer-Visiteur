@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f4869fa-57f7-4529-8de7-e2bc3b19bde3" name="Default Changelist" comment="" />
+    <list default="true" id="1f4869fa-57f7-4529-8de7-e2bc3b19bde3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exercice2/src/main/java/TODO.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice1/src/main/java/modele/Deplacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercice1/src/main/java/modele/Deplacement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/README.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/exercice2/README.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/META-INF/exercice2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/FormuleComplexe/Composite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/FormuleComplexe/Et.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/FormuleComplexe/Faux.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/FormuleComplexe/Inconnu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/FormuleComplexe/Logique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/FormuleComplexe/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/FormuleComplexe/Non.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/FormuleComplexe/OperateurBinaire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/FormuleComplexe/OperateurUnaire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/FormuleComplexe/Ou.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/FormuleComplexe/Vrai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Logique/Faux.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Logique/Inconnu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Logique/Logique.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Logique/OperateurBinaire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Logique/OperateurUnaire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Logique/Vrai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Operateurs/Composite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Operateurs/Et.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Operateurs/Non.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Operateurs/Ou.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Programme/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercice2/target/classes/modele/Programme/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Visiteurs/MainV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Visiteurs/Mystere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Visiteurs/MystereA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Visiteurs/MystereB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Visiteurs/Visitable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Visiteurs/Visiteur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercice2/target/classes/modele/Visiteurs/VisiteurImpl.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,28 +46,43 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
         <option value="Interface" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1XKvtk8pJZICvvIWdjzjo2KIpAT" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercice2/src/main" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/exercice3/src/main/java" />
-      <recent name="$PROJECT_DIR$/exercice2/src/main/java/modele/FormuleComplexe" />
-      <recent name="$PROJECT_DIR$/exercice2/src/main/java/modele/LogiqueComplexe" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="modele" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="modele.FormuleComplexe" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="modele" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exercice2/src/main" />
+      <recent name="$PROJECT_DIR$/exercice3/src/main/java" />
+      <recent name="$PROJECT_DIR$/exercice2/src/main/java/modele/FormuleComplexe" />
+      <recent name="$PROJECT_DIR$/exercice2/src/main/java/modele/LogiqueComplexe" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -47,26 +97,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programme.Main" />
       <module name="exercice1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="programme.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="modele.Programme.Main" />
-      <module name="exercice2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="modele.Programme.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,10 +124,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modele.Programme.Main" />
+      <module name="exercice2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modele.Programme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainV" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -106,11 +155,26 @@
       <option name="presentableId" value="Default" />
       <updated>1580807816722</updated>
       <workItem from="1580807821769" duration="17560000" />
+      <workItem from="1581876635502" duration="202000" />
+      <workItem from="1581877051947" duration="1778000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
